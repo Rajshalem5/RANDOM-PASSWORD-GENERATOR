@@ -1,6 +1,6 @@
 # PASSWORD-GENERATOR
 
-##live website:  https://random-password-generator-theta-nine.vercel.app/https://random-password-generator-theta-nine.vercel.app/
+## live website:  https://random-password-generator-theta-nine.vercel.app/https://random-password-generator-theta-nine.vercel.app/
 
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/nauvalazhar/bootstrap-5-login-page/.svg?style=social)](https://twitter.com/ShalemVajrapu) 
 [![telegram](	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rajshalem)
@@ -10,7 +10,7 @@
 [![LINKEDIN](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajshalem/)
 
 
-###password generator
+### password generator
 This repository contains a Password Generator project developed using HTML, CSS, and JavaScript.
 
 
