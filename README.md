@@ -1,6 +1,7 @@
 # PASSWORD-GENERATOR
 
-## live website:  https://random-password-generator-theta-nine.vercel.app/https://random-password-generator-theta-nine.vercel.app/
+## LIVE WEBSITE:  https://random-password-generator-theta-nine.vercel.app
+
 
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/nauvalazhar/bootstrap-5-login-page/.svg?style=social)](https://twitter.com/ShalemVajrapu) 
 [![telegram](	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rajshalem)
